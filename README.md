@@ -7,10 +7,12 @@
 <p>I’m interested in financial analysis, Data Analysis, and Software Development</p>
 
 <p>I’m currently learning coding fundamentals and the basics of programs including:</p>
-  <ul>Python, </ul>
-  <ul>HTML, </ul>
-  <ul>CSS, </ul>
-  <ul>and JavaScript</ul>
+<ul>
+  <li>Python,
+  <li>HTML,
+  <li>CSS,
+  <li>and JavaScript
+</ul>
 
 <p>I’m looking to collaborate on beginner programs and/or aprticipating in coding bootcamps</p>  
 

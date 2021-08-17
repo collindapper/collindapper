@@ -14,7 +14,7 @@
   <li>and JavaScript
 </ul>
 
-<p>I’m looking to collaborate on beginner programs and/or aprticipating in coding bootcamps</p>  
+<p>I’m looking to collaborate on beginner programs and/or participating in coding boot-camps</p>  
 
 <h4> Add me on Discord @ <em>TheBoyDapps#6029</em> so we can connect and discuss projects and similar interests!</h4>
 

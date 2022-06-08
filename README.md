@@ -4,14 +4,17 @@
 <h3>ABOUT ME</h3>
 <p>My name collin, I have a passion for gaming, going to the gym, and exploring! </p>
 
-<p>I’m interested in financial analysis, Data Analysis, and Software Development</p>
+<p>I’m interested in Full-Stack Development and Software Development</p>
 
-<p>I’m currently learning coding fundamentals and the basics of programs including:</p>
+<p>I’m currently learning to be a Full-Stack Web Developer</p>
 <ul>
-  <li>Python,
   <li>HTML,
   <li>CSS,
-  <li>and JavaScript
+  <li>JavaScript,
+  <li>Dynamic Websites,
+  <li>ReactJs,
+  <li> REST APIs,
+  <li> and JQuery
 </ul>
 
 <p>I’m looking to collaborate on beginner programs and/or participating in coding boot-camps</p>  

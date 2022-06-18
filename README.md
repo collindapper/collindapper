@@ -3,7 +3,7 @@
 
 
 <h3> 💻 ABOUT ME</h3>
-<p>My name collin, I have a passion for gaming, going to the gym, and exploring! </p>
+<p>My name collin, I have a passion for gaming, learning, and exploring! </p>
 
 <p>I’m interested in Full-Stack Development, Software Development, and currently attending a bootcamp to becomne a Full-Stack Web Developer.</p>
 

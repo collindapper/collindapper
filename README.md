@@ -1,6 +1,7 @@
 
 <h1> 👋 Hello Everyone,</h1>
 
+<img src=
 
 <h3>ABOUT ME</h3>
 <p>My name collin, I have a passion for gaming, going to the gym, and exploring! </p>

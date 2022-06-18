@@ -12,8 +12,8 @@
 
 <h3> 📲 Contact me!</h3>
 <p>Email: collindapper@gmail.com</p>
-<p><a href="https://collins-personal-portfolio.herokuapp.com/">Click here to go to my website</a></p>
-<p>Email: collindapper@gmail.com</p>
+<p> 🔗 <a href="https://collins-personal-portfolio.herokuapp.com/">Click here to go to my website</a></p>
+<p> 🔗 <a href="https://www.linkedin.com/in/collin-dapper-a1b59a152/">Click here to go to my LinkedIn</a></p>
 
 <!---
 collindapper/collindapper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

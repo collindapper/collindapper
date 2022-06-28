@@ -5,7 +5,7 @@
 <h3> 💻 ABOUT ME</h3>
 <p>My name collin, I have a passion for gaming, learning, and exploring! </p>
 
-<p>I’m interested in Full-Stack Development, Software Development, and currently attending a bootcamp to becomne a Full-Stack Web Developer.</p>
+<p>I’m interested in Full-Stack Development, Software Development, and currently attending a bootcamp to become a Full-Stack Web Developer.</p>
 
 <h3> ❔ Interested in collaborating?</h3>
 <p>I’m looking to collaborate on beginner programs and/or participating in coding boot-camps</p>  

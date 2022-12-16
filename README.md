@@ -12,7 +12,7 @@
 
 <h3> 📲 Contact me!</h3>
 <p>Email: collindapper@gmail.com</p>
-<p> 🔗 <a href="https://collindapper.com/">Click here to go to my website</a></p>
+<p> 🔗 <a href="https://www.collindapper.com">Click here to go to my website</a></p>
 <p> 🔗 <a href="https://www.linkedin.com/in/collin-dapper-a1b59a152/">Click here to go to my LinkedIn</a></p>
 
 <!---

@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Collin Dapper</h1>
 <h3 align="center">An Experienced Operations Manager, certified software engineer, and striving to learn more!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=collindapper&label=Profile%20views&color=0e75b6&style=flat" alt="collindapper" /> </p>
+
 - 🌱 I’m currently learning **Pre-Security and Cybersecurity fundamentals**
 
 - 👨‍💻 All of my projects are available at [http://www.collindapper.com](http://www.collindapper.com)
